@@ -1,12 +1,12 @@
 # fast-redis-annotation
 提供基于redisTemplate的注解化redis操作服务，致力改善@Cacheable中的问题
-## maven、源码导入
+## maven导入
 直接通过模块导入，且在maven中配置
 ```
 <dependency>
           <groupId>io.github.molamolaxxx</groupId>
           <artifactId>fast-redis-annotation</artifactId>
-          <version>1.0.1</version>
+          <version>1.0.2</version>
  </dependency>
 ```
 ## 配置
